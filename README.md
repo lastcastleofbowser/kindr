@@ -3,6 +3,7 @@
 ​
 Have you ever wanted to volunteer in your community? Have you ever need help from your community?
 ​
+
 Kindr aims to connect people within their communities, linking volunteers to the people who need help the most.
 ​
 ​
@@ -16,9 +17,6 @@ Kindr aims to connect people within their communities, linking volunteers to the
 - Mobile and desktop layouts
 - FAQ page
   ​
-  ​
-  ​
-
 ## Authors​
 
 - [Naomi Crisp](https://github.com/naomicrisp)
@@ -28,6 +26,13 @@ Kindr aims to connect people within their communities, linking volunteers to the
 - [James Attrill](https://github.com/attrill20)
 - [Christian Willcox](https://github.com/lastcastleofbowser)
   ​
+## Links
+
+Kindr is deployed on Netlify here: https://kindr.netlify.app/
+
+3-minute product demo: https://www.youtube.com/watch?v=Fc4mhUFAl10
+
+12-minute presentation: https://www.youtube.com/watch?v=up2jn3UXaNM
 
 ## Tech Stack
 
@@ -66,11 +71,6 @@ Kindr aims to connect people within their communities, linking volunteers to the
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ​
 ​​
-
-**Click the logo to watch the video:**
-
-[​![Kindr Screenshot](/src/imgs/logos/blue_text.png)](https://www.youtube.com/watch?v=Fc4mhUFAl10)
-
 **Screenshots:**
 
 ![Screenshot2](/src/imgs/screenshots/Image2.jpg)
